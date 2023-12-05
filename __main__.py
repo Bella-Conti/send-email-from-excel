@@ -28,7 +28,7 @@ def main():
             print("Invalid option. Please enter a valid option.")
 
 if __name__ == "__main__":
-    excel_file_path = "files/041611.xlsx"
+    excel_file_path = "files/nomedasuaplanilha.xlsx"
     output_excel_path = "files/result.xlsx"
     html_template_path = "assets/html/index.html"
     main()
